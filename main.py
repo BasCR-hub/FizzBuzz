@@ -8,7 +8,7 @@ for x in xrange(1, 200):
     elif fizz:
         print "Nouveau truc"
     elif buzz:
-        print "Buzz"
+        print "Encore nouveau"
     else:
         print x
 
