@@ -6,7 +6,7 @@ for x in xrange(1, 200):
     if fizz and buzz :
         print "Forkons mon ami forkons!"
     elif fizz:
-        print "Fizz"
+        print "Nouveau truc"
     elif buzz:
         print "Buzz"
     else:
